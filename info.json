@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
    "expiry": "31-12-2023 12:00 PM"
 },
+  "testde18o1": {
+   "password": "$2y$12$lat3nIwXb9Eb5bDxXI7ahufZemhYxiSKYROVWJpaXtww7pWe/W3L.",
+   "devices": ["REDMINOTE9PRO8F821C3ADFC"],
+   "expiry": "31-12-2023 12:00 PM"
+},
 }
