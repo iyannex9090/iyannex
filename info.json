@@ -4,4 +4,9 @@
    "devices": ["22101316GD9BAC807EE9EE2D6"],
    "expiry": "31-12-2098 12:00 PM"
 },
+   "Alfino": {
+   "password": "$2y$12$XFKQHRP8C/UAwFkDyA6Lf.CQk9/JUy2reTADzMW9ht.CRyEYYiceG",
+   "devices": ["SM-A042F650EF30485875BA5"],
+   "expiry": "31-12-2023 12:00 PM"
+},
 }
