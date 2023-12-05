@@ -24,4 +24,9 @@
    "devices": ["CPH1937 - 6e097fbd6454b6be"],
    "expiry": "06-01-2024 12:00 PM"
 },
+   "Modmgx": {
+   "password": "$2y$12$Dp78dlXJ2saz52WM0pOsU.RUf9dWa/c9ydxvkiXe1arQC3j2CVM/i",
+   "devices": ["RMX2103A1C5C443A7D6653E"],
+   "expiry": "31-12-2023 12:00 PM"
+},
 }
