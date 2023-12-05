@@ -14,4 +14,9 @@
    "devices": ["22101316G85720394B11F376"],
    "expiry": "31-12-2023 12:59 PM"
 },
+   "Grabcipinang": {
+   "password": "$2y$12$JO9/O/.efPVw4NosPP37fer2j3RZJWH4mU2fyaB4mreOYEoFIdnW6",
+   "devices": ["SM-A042F34141C4469CEC772"],
+   "expiry": "31-12-2023 12:00 PM"
+},
 }
