@@ -19,4 +19,9 @@
    "devices": ["SM-A042F34141C4469CEC772"],
    "expiry": "31-12-2023 12:00 PM"
 },
+   "Lambang_mod": {
+   "password": "$2y$12$qWmiyCQPeq5Vig7I6XoRuuciDXQhgpbU2lzspH3BIPGRPPSiWu4JW",
+   "devices": ["CPH1937 - 6e097fbd6454b6be"],
+   "expiry": "06-01-2024 12:00 PM"
+},
 }
