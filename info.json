@@ -29,4 +29,9 @@
    "devices": ["RMX2103A1C5C443A7D6653E"],
    "expiry": "31-12-2023 12:00 PM"
 },
+   "TooCoolman": {
+   "password": "$2y$12$u./cL/bRW0gtYJ0gG82R3OpJBaW55clkMFiANXMziPLHUuhxGnlbC",
+   "devices": ["REDMI4XF21BD3AA7D14"],
+   "expiry": "03-01-2024 12:00 PM"
+},
 }
