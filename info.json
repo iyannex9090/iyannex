@@ -39,5 +39,10 @@
    "password": "$2y$12$hzO2xuYLrcHHtQVOL30lEOwq.u.yvA2t5Ah5uGEetSdFlkQ3OLzkG",
    "devices": [],
    "expiry": "05-01-2024 12:00 PM"
-}, 
+},
+   "ytlu6": {
+   "password": "$2y$12$3DDFrNw8WAt3FIZxFHj5XOjd1tl4ZEFDstq4eV.TmBhoxPSejgRtu",
+   "devices": ["SM-A205F465980821FD322EC"],
+   "expiry": "27-12-2023 12:00 PM"
+},
 }
