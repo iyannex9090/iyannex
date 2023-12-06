@@ -50,4 +50,9 @@
    "devices": ["REDMINOTE4DBBA6CA1BA860C23"],
    "expiry": "17-12-2023 12:00 PM"
 },
+   "brader125": {
+   "password": "$2y$12$EDYd7y3970KBw6kYl2rzm.mPfl003O1Mvhh0e2OVeiDz5EK8e5MX6",
+   "devices": ["REDMI535C1CE127CF5"],
+   "expiry": "06-01-2024 12:00 PM"
+},
 }
