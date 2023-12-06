@@ -45,4 +45,9 @@
    "devices": ["SM-A205F465980821FD322EC"],
    "expiry": "27-12-2023 12:00 PM"
 },
+   "Zack": {
+   "password": "$2y$12$K2zdiap9kr4Wp90HOpANj.xYGtc7RY8Rr.aXozOSjwUxWZb6ge41u",
+   "devices": ["REDMINOTE4DBBA6CA1BA860C23"],
+   "expiry": "17-12-2023 12:00 PM"
+},
 }
