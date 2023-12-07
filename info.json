@@ -66,4 +66,9 @@
    "devices": ["22101316G196C97E65A5CC374"],
    "expiry": "08-12-2023 4:55 PM"
 },
+   "irawan_kun": {
+   "password": "$2y$12$9eGpL5LQs/4Msly47Uh4r.W4kNeZe9AFHN/57H2ojsyZofVepioi6",
+   "devices": ["INFINIXX6833BD71472FC403B4880"],
+   "expiry": "07-01-2024 10:00 AM"
+},
 }
