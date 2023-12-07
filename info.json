@@ -60,9 +60,9 @@
    "devices": ["INFINIXX6833BDAEFD619CBA4B6FD"],
    "expiry": "07-01-2024 10:00 AM"
 }, 
-   "Irawan_fake": {
-   "password": "$2y$12$EcDGEsnasz9AGnn3fJSZjOFUxtFdXkuTcd3uB7VG7eXYRICHREMfS",
+"Irawan123": {
+   "password": "$2y$12$dKlavT7nDuQTi/zG7NVOcuRoErzCfgG2wOxjg5Z3tZOZqHwcvZ48e",
    "devices": ["INFINIXX6833BD71472FC403B4880"],
-   "expiry": "07-01-2024 10:59 AM"
+   "expiry": "07-01-2024 10:00 AM"
 },
 }
