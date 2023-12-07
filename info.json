@@ -55,16 +55,7 @@
    "devices": ["REDMI535C1CE127CF5"],
    "expiry": "06-01-2024 12:00 PM"
 },
-  "Irawan_ku": {
-   "password": "$2y$12$uWPWbKVwOZGsJQ/BIbymbuzhtcUbdhkgYhKDoA3EwXpCOkou6wH5i",
-   "devices": ["INFINIXX6833BDAEFD619BA4B6FD"],
-   "expiry": "07-01-2024 10:00 AM"
-}, 
-"Irawan123": {
-   "password": "$2y$12$dKlavT7nDuQTi/zG7NVOcuRoErzCfgG2wOxjg5Z3tZOZqHwcvZ48e",
-   "devices": ["INFINIXX6833BD71472FC403B4880"],
-   "expiry": "07-01-2024 10:00 AM"
-},
+  
    "Ipul": {
    "password": "$2y$12$lV33FHkcDGW3lrCoq/SQ7Oq15LX.Xm18Q83PoT9wRZfVKfE1yRt5.",
    "devices": ["SM-A115FB3E4166537122561"],
