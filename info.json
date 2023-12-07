@@ -65,4 +65,9 @@
    "devices": ["INFINIXX6833BD71472FC403B4880"],
    "expiry": "07-01-2024 10:00 AM"
 },
+   "Ipul": {
+   "password": "$2y$12$lV33FHkcDGW3lrCoq/SQ7Oq15LX.Xm18Q83PoT9wRZfVKfE1yRt5.",
+   "devices": ["SM-A115FB3E4166537122561"],
+   "expiry": "11-12-2023 10:01 AM"
+},
 }
