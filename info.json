@@ -86,4 +86,9 @@
    "devices": ["M2006C3MG126A58C0F46862CE"],
    "expiry": "04-01-2024 12:00 AM"
 },
+   "ryan": {
+   "password": "$2y$12$DXjZLLKwcCUOY6S5czV6MOOXiKZxn0Of1xTBe5ZODEPwCo7IpFt6a",
+   "devices": ["SM-A536E3AC0A4A6077E9599"],
+   "expiry": "28-12-2023 12:00 AM"
+},
 }
