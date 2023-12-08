@@ -71,4 +71,9 @@
    "devices": ["INFINIXX6833BD71472FC403B4880"],
    "expiry": "07-01-2024 10:00 AM"
 },
+   "Grabbsdcity": {
+   "password": "$2y$12$9zMKrWaaPN9crgcxhrfnsugG90tOqf4iH/R8wfITY6lGTPHvqTWpi",
+   "devices": ["CPH1717SO8SCYWG5T55Z9PR"],
+   "expiry": "08-01-2024 12:00 AM"
+},
 }
