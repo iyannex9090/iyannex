@@ -96,4 +96,9 @@
    "devices": ["M2102J20SG16A38048AB3F13A1"],
    "expiry": "08-01-2024 12:00 AM"
 },
+   "izuaF": {
+   "password": "$2y$12$VDgptEYMRAAX0m8x69B/L.viYw8O7jeoXwQdaSgrwLesS5xESXlNi",
+   "devices": ["REDMINOTE9PRO583F23863A6A9B34"],
+   "expiry": "08-02-2024 12:00 AM"
+},
 }
