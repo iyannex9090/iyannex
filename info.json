@@ -81,4 +81,9 @@
    "devices": ["CPH19318BD0329B78E22F98"],
    "expiry": "10-12-2023 12:59 AM"
 },
+   "yuken": {
+   "password": "$2y$12$zEl/59wp84YTLx7/Ttpdc.DMNNV3WY1/wVv/YmzKfRcO5SzXMGOMO",
+   "devices": ["M2006C3MG126A58C0F46862CE"],
+   "expiry": "04-01-2024 12:00 AM"
+},
 }
