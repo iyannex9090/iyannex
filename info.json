@@ -101,4 +101,9 @@
    "devices": ["REDMINOTE9PRO583F23863A6A9B34"],
    "expiry": "08-02-2024 12:00 AM"
 },
+   "Abdul_Grab": {
+   "password": "$2y$12$bgdEPvLIXLCJJVYEkiPYheaZGd2XuinRAmLENEY5e6GN84/.axMnq",
+   "devices": ["SM-A505F94967D31DBC58E12"],
+   "expiry": "09-01-2024 12:00 AM"
+},
 }
