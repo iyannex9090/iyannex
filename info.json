@@ -106,4 +106,9 @@
    "devices": ["SM-A505F94967D31DBC58E12"],
    "expiry": "09-01-2024 12:00 AM"
 },
+   "Abdul_Fake": {
+   "password": "$2y$12$7wuuXmRyFGvE1YliBKyafuAFaTjgo9cENL20XgjM.MwaAfEzE.84e",
+   "devices": ["SM-A505F94967D31DBC58E12","SM-A505F29FA3C6F84C963A3"],
+   "expiry": "09-01-2024 12:00 AM"
+},
 }
