@@ -111,4 +111,9 @@
    "devices": ["SM-A505F94967D31DBC58E12","SM-A505F29FA3C6F84C963A3"],
    "expiry": "09-01-2024 12:00 AM"
 },
+   "kuple": {
+   "password": "$2y$12$qILCySNng7/zO7.AhbwMdO8IKwJLK.NFhMBNbBWhuHaUjk8L6NEOy",
+   "devices": ["REDMI8APRO47227F7322BDA968"],
+   "expiry": "09-02-2024 10:00 AM"
+},
 }
