@@ -126,4 +126,9 @@
    "devices": ["SM-A105G654EDF50EBFC15E0"],
    "expiry": "10-01-2024 10:00 AM"
 },
+   "hermawan": {
+   "password": "$2y$12$TyPsiTqfRoIiFgo0TlTR5.oxveordKTkTMOzYAC331I5gzrbJ3g3q",
+   "devices": ["M2103K19PG75E3C135A513690F"],
+   "expiry": "10-01-2024 10:00 AM"
+},
 }
