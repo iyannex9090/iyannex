@@ -121,4 +121,9 @@
    "devices": ["SM-A135F7DDE2958A162FDF0"],
    "expiry": "22-12-2023 10:00 AM"
 },
+   "imunk": {
+   "password": "$2y$12$nHpc0FLKN1N8paCJFHdebO7DIzlM9t40tQ1MVKpScnp14041uHCom",
+   "devices": ["SM-A105G654EDF50EBFC15E0"],
+   "expiry": "10-01-2024 10:00 AM"
+},
 }
