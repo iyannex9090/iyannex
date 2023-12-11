@@ -131,4 +131,9 @@
    "devices": ["M2103K19PG75E3C135A513690F"],
    "expiry": "10-01-2024 10:00 AM"
 },
+   "anas": {
+   "password": "$2y$12$4kgH.NGSwDTdXvppcgClD.6ZeZXBTRcerE3vWhbUgRdgRH4VxK0P6",
+   "devices": ["M2003J15SC4DF4B9A038621D28"],
+   "expiry": "11-01-2024 10:00 AM"
+},
 }
