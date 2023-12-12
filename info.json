@@ -146,4 +146,9 @@
    "devices": ["SM-A525F67DCB8E56010BD7D"],
    "expiry": "12-02-2024 12:00 PM"
 },
+   "Fahmi": {
+   "password": "$2y$12$kIom.LRRrDr3NhPzu0b6ee.fHEV/rRh2Gn9UMcdRUjb6/htvW1z8y",
+   "devices": ["M2006C3MG284C51D4B0995B95"],
+   "expiry": "12-01-2024 10:00 AM"
+},
 }
