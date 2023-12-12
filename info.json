@@ -151,4 +151,9 @@
    "devices": ["M2006C3MG284C51D4B0995B95"],
    "expiry": "12-01-2024 10:00 AM"
 },
+   "usermage": {
+   "password": "$2y$12$h0HqUOdURtQSztnnr7tzbuxa5KylEp8JYMg1zuKwG9cnkyhUHzCde",
+   "devices": ["REDMINOTE534690D0ADCCBF32F"],
+   "expiry": "26-12-2023 12:00 PM"
+},
 }
