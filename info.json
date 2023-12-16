@@ -176,4 +176,9 @@
    "devices": ["22120RN86GD17B032966827A38"],
    "expiry": "15-01-2024 10:00 AM"
 },
+   "Rafi": {
+   "password": "$2y$12$VvtsjC5bB6ZLCJ4.GE1PFuzeEW4yMFedI90pTsvZjVqxSrtzhfdEG",
+   "devices": ["SM-A125FD16B59587D1F975E"],
+   "expiry": "08-01-2024 10:00 AM"
+},
 }
