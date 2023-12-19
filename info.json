@@ -191,4 +191,9 @@
    "devices": ["INFINIXX680B59B0C084E900DBD9"],
    "expiry": "19-01-2024 10:00 AM"
 },
+   "irpin": {
+   "password": "$2y$12$uEG0fhez5A0qS5Vty2dbT.XY12cLkHVxaPNtBRBagIM.RrMwKwVeK",
+   "devices": ["SM-M115FFC2C95B2A202C7B1"],
+   "expiry": "19-01-2024 10:00 AM"
+},
 }
