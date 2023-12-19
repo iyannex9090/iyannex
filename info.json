@@ -186,4 +186,9 @@
    "devices": ["REDMINOTE5APRIMEA372F4D2989556DF"],
    "expiry": "28-12-2023 10:00 AM"
 },
+   "yusran": {
+   "password": "$2y$12$EyDWKO1A0mw9IF.BYKQZFegyp8YefAfoDfMmSfaijERQTX5OIQRu.",
+   "devices": ["INFINIXX680B59B0C084E900DBD9"],
+   "expiry": "19-01-2024 10:00 AM"
+},
 }
