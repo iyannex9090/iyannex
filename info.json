@@ -201,4 +201,9 @@
    "devices": ["REDMI6AAED803A2F4ACCA25"],
    "expiry": "19-01-2024 10:00 AM"
 },
+   "tonybalola": {
+   "password": "$2y$12$S/NSQ1R2z0IfERgGQ7jgU..AJMXdfIie7bY54BgXS9eV24bKUF.FG",
+   "devices": ["CPH193144F556828B3BE7D8"],
+   "expiry": "02-01-2024 10:00 AM"
+},
 }
