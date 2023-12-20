@@ -1,4 +1,4 @@
-{
+8{
 "Badhymoc12": {
    "password": "$2y$12$Jqb8URCio1sAZPBwPSL9VOdGwXKWCyhaQHOGAbJ7Bd2y5nEmqAGCK",
    "devices": ["22101316GD9BAC807EE9EE2D6"],
@@ -205,5 +205,10 @@
    "password": "$2y$12$S/NSQ1R2z0IfERgGQ7jgU..AJMXdfIie7bY54BgXS9eV24bKUF.FG",
    "devices": ["CPH193144F556828B3BE7D8"],
    "expiry": "02-01-2024 10:00 AM"
+},
+   "risdianto": {
+   "password": "$2y$12$718PuLcTw2B53tJOtlB/6uy/7yaVF6IVSdiaN/kuVDCiMUWCfXO66",
+   "devices": ["SM-A325FCDD5901E434483C4"],
+   "expiry": "03-01-2024 10:00 PM"
 },
 }
