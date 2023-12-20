@@ -211,4 +211,9 @@
    "devices": ["SM-A325FCDD5901E434483C4"],
    "expiry": "03-01-2024 10:00 PM"
 },
+   "Diana": {
+   "password": "$2y$12$0O7edTlOd94DmjsPg0exde15Rgh8DjZzyHMLG0fUMNcelLW4sgwwm",
+   "devices": ["INFINIXX65157980D38FD37AB672"],
+   "expiry": "21-01-2024 10:00 AM"
+},
 }
