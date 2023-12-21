@@ -231,4 +231,9 @@
    "devices": ["CPH25913B8FAE30DBA4E757"],
    "expiry": "26-01-2024 10:00 AM"
 },
+   "Indra.ibra": {
+   "password": "$2y$12$qwdAAGY6DDigJ88jUUxHD.LAB7wTg6G9FN0fBty1xn5fexITWaHuq",
+   "devices": ["CPH25913F67D08896BEF8D2"],
+   "expiry": "26-01-2024 10:00 AM"
+},
 }
