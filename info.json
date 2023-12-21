@@ -220,5 +220,10 @@
    "password": "$2y$12$bYmuCrGWNIsaItTYg06p8OavDPnecgfW2D6mnWa0rzFAdQlcAAd6.",
    "devices": ["220233L2G3BB5AE9E86DA6D48"],
    "expiry": "21-03-2024 10:00 AM"
-},   
+},  
+   "Cungkring": {
+   "password": "$2y$12$H5asx7hmKQZ5c8YHurW4Ve/TwW.gMtuk5qoAAALRHy9sWFbryP/06",
+   "devices": ["SM-A045FB1D5150D2B41E2DA"],
+   "expiry": "05-01-2024 10:00 AM"
+},
 }
