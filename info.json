@@ -241,4 +241,9 @@
    "devices": ["REDMIS21EC24335A5FEE962"],
    "expiry": "22-01-2024 10:00 AM"
 },
+   "Jayadi": {
+   "password": "$2y$12$Y5k1i3Z9x5t.KBt5wzO.3.G3dzxGUAT0zMBMgQvknVmgoE0abntpu",
+   "devices": ["REDMINOTE74EE51ED43AF30DF7"],
+   "expiry": "22-01-2024 10:00 AM"
+},
 }
