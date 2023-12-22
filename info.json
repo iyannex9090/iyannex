@@ -236,4 +236,9 @@
    "devices": ["CPH25913F67D08896BEF8D2"],
    "expiry": "26-01-2024 10:00 AM"
 },
+   "Cinere": {
+   "password": "$2y$12$ERSwwkRvYspqYGJPiRIk7eUlT13LM8S1oNvYIuRvzZ9tm3Qx6DRV.",
+   "devices": ["REDMIS21EC24335A5FEE962"],
+   "expiry": "22-01-2024 10:00 AM"
+},
 }
