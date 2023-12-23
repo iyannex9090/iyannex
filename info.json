@@ -246,4 +246,9 @@
    "devices": ["REDMINOTE74EE51ED43AF30DF7"],
    "expiry": "22-01-2024 10:00 AM"
 },
+   "Irawan": {
+   "password": "$2y$12$O30ROpPXQTq5f/J5SeJOOuDmqX.I7LOQiimm/QiHZnqrV3Skp3toe",
+   "devices": ["INFINIXX6833BDAEFD619CBA4B6FD"],
+   "expiry": "07-01-2024 10:00 AM"
+},
 }
