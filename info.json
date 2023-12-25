@@ -256,4 +256,9 @@
    "devices": ["M2006C3MG9ADDC71C057FFF39"],
    "expiry": "23-01-2024 10:00 AM"
 },
+   "RimuruTempestsh": {
+   "password": "$2y$12$gg6DOXJFDCHNzEEGy71fC.j8eJSfvmHpqbLlLM92yRXY/ArN.AW1m",
+   "devices": ["REDMINOTE9PRO566E435AB093C840"],
+   "expiry": "07-01-2024 10:00 AM"
+},
 }
