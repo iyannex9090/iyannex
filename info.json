@@ -258,4 +258,9 @@
    "devices": ["REDMINOTE9PRO566E435AB093C840"],
    "expiry": "07-01-2024 10:00 AM"
 },
+   "badhymoc12": {
+   "password": "$2y$12$R/DFZv.mKjp2eyF.xo1Gku0qGA5P017Dbq6Wlwgwdx4mQ5faog0BK",
+   "devices": ["22101316G85720394B11F3765"],
+   "expiry": "31-01-2024 12:00 PM"
+},
 }
