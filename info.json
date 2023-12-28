@@ -263,5 +263,9 @@
    "devices": ["22101316G85720394B11F3765"],
    "expiry": "31-01-2024 12:00 PM"
 },
-   
+  "RudiGunawan": {
+   "password": "$2y$12$8kKFLAyNPUUbJxv/ArxTIOQcxKg7Q9oy6ybTfZ73HZVTUgThJczt6",
+   "devices": ["RMX2020A80DD5DFB0CD5912"],
+   "expiry": "31-01-2024 10:00 AM"
+},    
 }
