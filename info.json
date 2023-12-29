@@ -268,4 +268,9 @@
    "devices": ["RMX2020A80DD5DFB0CD5912"],
    "expiry": "31-01-2024 10:00 AM"
 },    
+   "pemburusameday": {
+   "password": "$2y$12$QT/kHRrcNi7LvrWovq5b2eso5CzItF8MsEbo/DTr4BgwJDBuAgcRm",
+   "devices": ["REDMINOTE509FA05F0AC3AFF77"],
+   "expiry": "29-01-2024 10:00 AM"
+},
 }
