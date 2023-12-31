@@ -273,4 +273,9 @@
    "devices": ["REDMINOTE509FA05F0AC3AFF77"],
    "expiry": "29-01-2024 10:00 AM"
 },
+   "sendiego": {
+   "password": "$2y$12$Bi4p72MA.pkkyck1b.jgsegk//VKJJT9q9bZC5xshLftLH6/qrnvm",
+   "devices": ["M2102J20SGF2DDF03A580A5DAE"],
+   "expiry": "31-01-2024 12:00 PM"
+},
 }
