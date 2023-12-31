@@ -278,4 +278,9 @@
    "devices": ["M2102J20SGF2DDF03A580A5DAE"],
    "expiry": "31-01-2024 12:00 PM"
 },
+  "Sendiegocuy": {
+   "password": "$2y$12$YQUj31L6XUMqsEkNqVCxZezExferEM37heIQ5Ym9u3IsJlmyP5Nyq",
+   "devices": ["M2102J20SGF2DDF03A580A5DAE"],
+   "expiry": "02-01-2024 12:00 PM"
+}, 
 }
