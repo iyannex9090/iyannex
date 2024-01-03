@@ -283,4 +283,9 @@
    "devices": ["M2102J20SGF2DDF03A580A5DAE"],
    "expiry": "02-01-2024 12:00 PM"
 }, 
+   "huzein": {
+   "password": "$2y$12$EXOdBI09B0x7Owua0qt8ceXntNj/WJHLeLcmD/lE0aImfQNyhYzha",
+   "devices": ["SM-G975F38083838F671D11F"],
+   "expiry": "03-02-2024 12:59 AM"
+},
 }
